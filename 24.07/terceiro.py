@@ -4,3 +4,4 @@ def mostrar():
     print(x, y)
 
 mostrar()
+print(y)
